@@ -3,4 +3,4 @@
  I hope my repository can help someone, just use obsidian to read notes(file name:typescript).
 <br>
 <br>
- This [//roadmap.sh/typescript](roadmap)https://roadmap.sh/typescript I use to study TS.
+ This (roadmap)https://roadmap.sh/typescript I use to study TS.
