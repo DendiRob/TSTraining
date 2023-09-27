@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8aeb9d84f157866f",
+        "id": "7d9f1a624abf555e",
         "type": "tabs",
         "children": [
           {
-            "id": "30b663449f2c34fc",
+            "id": "503cf1e50313064a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "introduction/Установка и конфиг TS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "introduction/Установка и конфиг TS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "introduction/Установка и конфиг TS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "introduction/Установка и конфиг TS.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,20 +130,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "1983c2cd942e02b0",
+  "active": "503cf1e50313064a",
   "lastOpenFiles": [
+    "types/objectstypes/Tuple.md",
+    "types/objectstypes/Array.md",
+    "types/objectstypes/Enum.md",
+    "types/primitive/undefined and null.md",
+    "types/primitive/Primitive types.md",
+    "types/objectstypes/Class.md",
+    "img/Pasted image 20230927190952.png",
+    "types/objectstypes/Interface and type.md",
+    "img/Pasted image 20230927184703.png",
+    "img",
+    "img/Pasted image 20230927184614.png",
+    "Pasted image 20230927184605.png",
+    "types/objectstypes",
+    "introduction/Compiler Options.md",
+    "types/primitive",
     "types",
     "introduction/TypeScript vs JS.md",
-    "introduction/Compiler Options.md",
     "introduction/Установка и конфиг TS.md",
+    "types",
     "Без названия.md",
     "introduction"
   ]
