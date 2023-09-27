@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "b20d68e865d08795",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aeb9d84f157866f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30b663449f2c34fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "introduction/Установка и конфиг TS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75a3403f9bf8edb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f9983566fda37c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1983c2cd942e02b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66815d7c215d288b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95bcc35b7a251d1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7a2a40b78d6ce50",
+    "type": "split",
+    "children": [
+      {
+        "id": "91cbffebd29993f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88f5f5802d39f9a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "introduction/Установка и конфиг TS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6525819e3c99664",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "introduction/Установка и конфиг TS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd21962b7ea64f0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1bf82531cf4137b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "introduction/Установка и конфиг TS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "1983c2cd942e02b0",
+  "lastOpenFiles": [
+    "types",
+    "introduction/TypeScript vs JS.md",
+    "introduction/Compiler Options.md",
+    "introduction/Установка и конфиг TS.md",
+    "Без названия.md",
+    "introduction"
+  ]
+}
