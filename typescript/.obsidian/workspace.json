@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d9f1a624abf555e",
+        "id": "b974f36a2b801653",
         "type": "tabs",
         "children": [
           {
-            "id": "503cf1e50313064a",
+            "id": "dbbb050607d1ee94",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "503cf1e50313064a",
+  "active": "1983c2cd942e02b0",
   "lastOpenFiles": [
+    "types/Other types/Never.md",
+    "types/Other types/Unknown.md",
+    "types/Other types/Object.md",
+    "types/Other types/Any.md",
+    "types/Other types",
     "types/objectstypes/Tuple.md",
     "types/objectstypes/Array.md",
     "types/objectstypes/Enum.md",
