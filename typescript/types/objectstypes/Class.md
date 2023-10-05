@@ -17,4 +17,4 @@ class Car {
 ```
 Classes is like in vanila JS the main differences you can see in next puctures
 ## Class
-![[Pasted image 20230927190952.png]]
+![[Class-img.png]]

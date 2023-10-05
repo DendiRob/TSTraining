@@ -1,2 +1,1 @@
-const a:number = 2;
-console.log(a)
+let a:number = 2;

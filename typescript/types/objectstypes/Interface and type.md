@@ -12,7 +12,7 @@ it is an object which allows you use its types by multiple objects.
 Interface and type are almost identical ways of specifying a type for an object!
 ## interface
 
-![[Pasted image 20230927184614.png]]
+![[Interface-img.png]]
 ## Types
 
-![[Pasted image 20230927184703.png]]
+![[Type-img.png]]
