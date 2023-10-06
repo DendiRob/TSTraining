@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3c04664ae35c42a2",
+        "id": "8aeb2f559bac1765",
         "type": "tabs",
         "children": [
           {
-            "id": "9b21cd56013487f7",
+            "id": "23ce8ab0bd86db74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "types/Type aliases.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "types/Type aliases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "types/Type aliases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "types/Type aliases.md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1983c2cd942e02b0",
+  "active": "23ce8ab0bd86db74",
   "lastOpenFiles": [
     "types/Type Compatibility.md",
     "types/Union and intersection types in TypeScript.md",
