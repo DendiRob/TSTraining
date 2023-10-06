@@ -146,8 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23ce8ab0bd86db74",
+  "active": "1983c2cd942e02b0",
   "lastOpenFiles": [
+    "types/we should use type aliases in the following use cases.md",
+    "types/When to use types vs. interfaces.md",
+    "Type Guards/typeof Operator.md",
+    "Type Guards/Type Guards.md",
+    "Type Guards/instanceof operator.md",
+    "Type Guards",
+    "Combining Types/keyof Operator.md",
+    "Combining Types/Union Types.md",
+    "Combining Types/Type Aliases.md",
+    "Combining Types/Intersection Types.md",
+    "Combining Types/Combining Types.md",
+    "Combining Types",
     "types/Type Compatibility.md",
     "types/Union and intersection types in TypeScript.md",
     "types/Type aliases.md",
@@ -168,10 +180,6 @@
     "types/objectstypes/Enum.md",
     "types/objectstypes/Class.md",
     "types/Other types/Any.md",
-    "types/primitive/undefined and null.md",
-    "types/Other types/Never.md",
-    "types/Other types/Unknown.md",
-    "types/Other types/Object.md",
     "types/Other types",
     "img",
     "Pasted image 20230927184605.png",
@@ -179,7 +187,6 @@
     "types/primitive",
     "types",
     "types",
-    "Без названия.md",
     "introduction"
   ]
 }
