@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3c04664ae35c42a2",
+        "id": "802246e98f92bab1",
         "type": "tabs",
         "children": [
           {
-            "id": "9b21cd56013487f7",
+            "id": "e2fe8f5c77fdac53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Type Guards/instanceof operator.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Type Guards/instanceof operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Type Guards/instanceof operator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Type Guards/instanceof operator.md"
+              }
             }
           }
         ]
@@ -130,16 +138,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1983c2cd942e02b0",
+  "active": "e2fe8f5c77fdac53",
   "lastOpenFiles": [
+    "Type Guards/typeof Operator.md",
+    "Type Guards/instanceof operator.md",
+    "types/objectstypes/Interface and type.md",
+    "Type Guards/Type Guards.md",
+    "Combining Types/keyof Operator.md",
+    "Type Guards",
+    "Combining Types/Type Aliases.md",
+    "Combining Types/Intersection Types.md",
+    "Combining Types/Union Types.md",
+    "Combining Types/Combining Types.md",
+    "Combining Types",
+    "types/we should use type aliases in the following use cases.md",
+    "types/When to use types vs. interfaces.md",
     "types/Type Compatibility.md",
     "types/Union and intersection types in TypeScript.md",
     "types/Type aliases.md",
@@ -156,14 +177,9 @@
     "introduction/Compiler Options.md",
     "introduction/Установка и конфиг TS.md",
     "types/objectstypes/Array.md",
-    "types/objectstypes/Interface and type.md",
     "types/objectstypes/Enum.md",
     "types/objectstypes/Class.md",
     "types/Other types/Any.md",
-    "types/primitive/undefined and null.md",
-    "types/Other types/Never.md",
-    "types/Other types/Unknown.md",
-    "types/Other types/Object.md",
     "types/Other types",
     "img",
     "Pasted image 20230927184605.png",
@@ -171,7 +187,6 @@
     "types/primitive",
     "types",
     "types",
-    "Без названия.md",
     "introduction"
   ]
 }
